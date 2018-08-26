@@ -1,1 +1,1 @@
-Test
+This project was created as part of one of my Java courses. It asks the user what shape they want to create (circle, rectangle, square, triangle), dimensions, and displays the shape in a JFrame window. Currently, there exists a problem with displaying the triangle--I'll fix it when I get some time. I suspect the problem occurs in the TriangleGraphics.java file, specifically, I need to find a way to throw in the dimensions correctly and build the triangle to display.
